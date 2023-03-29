@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Resume</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/style.css">
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<script src="script.js"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="header">
+			<img src="asstes/passport.jpg" alt="Profile Picture">
+			<h1>Mohammad Yazid Bustamin bin Mustoffa</h1>
+			<p>Techincal Assistance</p>
+		</div>
+		<div class="main">
+			<h2>About Me</h2>
+			<p>Hi, my name’s Yazid and I’m a fresh grad science computer at UiTM. As well as programing I also have experience in networking. I’m currently working at telecommunication company as technical assistance. I hope i can get a chance to enhance my networking skills in your company.</p>
+
+			<h2>Skills</h2>
+			<ul>
+				<li>HTML</li>
+				<li>CSS</li>
+				<li>JavaScript</li>
+				<li>Bootstrap</li>
+				<li>PHP</li>
+				<li>MySQL</li>
+				<li>Linux Machine</li>
+				<li>Routing</li>
+			</ul>
+
+			<h2>Experience</h2>
+			<div class="job">
+				<h3>Techincal Assistance, Telekom Malaysia Sdn. Bhd</h3>
+				<p class="date">2021 - Present</p>
+				<ul>
+					<li>Provided technical support to customer via email and over the phone</li>
+					<li>Resolved networking issues</li>
+					<li>1st level troubleshooting</li>
+				</ul>
+			</div>
+
+			<div class="job">
+				<h3>Marketing Officer, Yoshinoya Hanamaru Sdn. Bhd</h3>
+				<p class="date">2019 - 2021</p>
+				<ul>
+					<li>Created and managed content for various marketing channels, such as social media, email campaigns, and blog posts.</li>
+					<li>Conducted market research and analyzed data to identify trends, customer preferences, and opportunities for growth.</li>
+					<li>Developed and maintained relationships with external partners, such as advertising agencies, media outlets, and influencers.</li>
+					<li>Conducted A/B testing and other experiments to optimize marketing campaigns and improve conversion rates.</li>
+				</ul>
+			</div>
+
+			<h2>Education</h2>
+			<div class="education">
+				<h3>Diploma in Computer Science, Universiti Teknologi Mara</h3>
+				<p class="date">2015 - 2018</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
