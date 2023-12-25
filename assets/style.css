@@ -8,7 +8,8 @@ body {
 
 .container {
 	max-width: 800px;
-	margin: 2cm auto;
+	size: A4 portrait;
+	margin: 0 auto;
 	background-color: #FFFFFF;
 	padding: 20px;
 	overflow: auto;
