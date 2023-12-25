@@ -9,7 +9,10 @@ body {
 .container {
 	max-width: 800px;
 	size: A4 portrait;
-	margin: 0 auto;
+	margin-left: 2cm;
+	margin-top: 2cm;
+	margin-right: 2cm;
+	margin-bottom: 2cm;
 	background-color: #FFFFFF;
 	padding: 20px;
 	overflow: auto;
